@@ -63,10 +63,10 @@ document.writeln("BigInt → " + balance + " | Type: " + typeof balance + "<br><
 console.log("\n===== Activity 1 : Student Details =====");
 document.writeln("<h3>Activity 1 : Student Details</h3>");
 
-let name = "Tahir Handimalik";
+let name = "Rohit";
 let age = 21;
-let address = "Korochi";
-const PRN = "23UAM034";
+let address = "ichalkaranji";
+const PRN = "23UAM031";
 
 console.log("Name:", name);
 console.log("Age:", age);
